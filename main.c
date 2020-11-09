@@ -4,10 +4,8 @@
 
 void main(){
     
-    int choice;
     double value;
     double result1,result2,result3;
-    bool flag = true;
 
     printf("Please insert a value: \n");
     scanf("%lf",&value);
